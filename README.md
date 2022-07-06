@@ -7,3 +7,4 @@ you have to have chrome.exe tool, same version with chrome
     
 this code line(xpath) is important. if it change, it doesn't work
 you can access F12, and copy XPath. ( only chrome, NO EDGE )
+
